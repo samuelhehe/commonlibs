@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/com/samuelnotes/commonlibs/cache/BitmapManager.java=UTF-8
+encoding//src/com/samuelnotes/commonlibs/update/UpdateManager.java=UTF-8
+encoding//src/com/samuelnotes/commonlibs/utils/FileUtils.java=UTF-8
+encoding//src/com/samuelnotes/commonlibs/utils/PreferencesUtils.java=UTF-8
+encoding//src/com/samuelnotes/commonlibs/utils/StringUtils.java=UTF-8
+encoding//src/com/samuelnotes/commonlibs/utils/TimeUtils.java=UTF-8
+encoding//src/com/samuelnotes/commonlibs/widget/PullToRefreshListView.java=UTF-8
+encoding/<project>=UTF-8
